@@ -1,6 +1,11 @@
 # SlickSlider
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.8.
+In This Project I created the Slider/ carousel using slick carousel.
+
+Clone this project and run "npm install" to install all dependencies.
+
+For more on slick Carousel visit https://kenwheeler.github.io/slick/
 
 ## Development server
 
